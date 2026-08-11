@@ -1,8 +1,0 @@
-{
-  "name": "pdf-word-quiz-generator",
-  "version": "1.0.0",
-  "description": "Generador de quizzes interactivos leyendo PDFs/Word con OpenAI en Vercel",
-  "dependencies": {
-    "openai": "^4.28.0"
-  }
-}
